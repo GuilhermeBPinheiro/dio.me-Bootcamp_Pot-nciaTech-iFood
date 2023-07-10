@@ -14,9 +14,6 @@ Repositório para armazenar resumos sobre Git e GiiHub do curso Versionamento de
 |     2|               |
 |     3|               |
 
-'''
-Git Init
-'''
 
 ## 🔍Referência
 - [Digital Innovation One]()
